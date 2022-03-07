@@ -1,5 +1,7 @@
 # Credit_Risk_Analysis
 
+Supervised machine learning and Python
+
 ### Overview of the analysis: Explain the purpose of this analysis.
 
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, we need to employ different techniques to train and evaluate models with unbalanced classes. we use imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling. 
