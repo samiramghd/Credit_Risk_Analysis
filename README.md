@@ -12,7 +12,7 @@ Using the imbalanced-learn and scikit-learn libraries to evaluate three machine 
 
 #### Naive Random Oversampling
 
-![This is an image](naive.png)
+![This is an image](https://github.com/samiramghd/Credit_Risk_Analysis/blob/main/images/naive.PNG)
 
 - balanced accuracy: 0.6249984891886339
 - precision: the precision is pretty low for high_risk loans and is high for low_risk loans.
@@ -20,7 +20,7 @@ Using the imbalanced-learn and scikit-learn libraries to evaluate three machine 
 
 #### SMOTE Oversampling
 
-![This is an image](smote-over.png)
+![This is an image](https://github.com/samiramghd/Credit_Risk_Analysis/blob/main/images/smote-over.PNG)
 
 - balanced accuracy: 0.6512584051472337
 - precision: the precision is pretty low for high_risk loans and is high for low_risk loans.
@@ -28,7 +28,7 @@ Using the imbalanced-learn and scikit-learn libraries to evaluate three machine 
 
 #### Undersampling
 
-![This is an image](under.png)
+![This is an image](https://github.com/samiramghd/Credit_Risk_Analysis/blob/main/images/under.PNG)
 
 - balanced accuracy: 0.6512584051472337
 - precision: the precision is pretty low for high_risk loans and is high for low_risk loans.
@@ -36,7 +36,7 @@ Using the imbalanced-learn and scikit-learn libraries to evaluate three machine 
 
 #### Combination (Over and Under) Sampling
 
-![This is an image](combination.png)
+![This is an image](https://github.com/samiramghd/Credit_Risk_Analysis/blob/main/images/combination.PNG)
 
 - balanced accuracy: 0.5214958241173839
 - precision: the precision is pretty low for high_risk loans and is high for low_risk loans.
@@ -44,7 +44,7 @@ Using the imbalanced-learn and scikit-learn libraries to evaluate three machine 
 
 #### Balanced Random Forest Classifier
 
-![This is an image](emb.png)
+![This is an image](https://github.com/samiramghd/Credit_Risk_Analysis/blob/main/images/emb.PNG)
 
 - balanced accuracy: 0.7877672625306695
 - precision: the precision is pretty low for high_risk loans and is high for low_risk loans.
@@ -52,7 +52,7 @@ Using the imbalanced-learn and scikit-learn libraries to evaluate three machine 
 
 #### Easy Ensemble AdaBoost Classifier
 
-![This is an image](adaboost.png)
+![This is an image](https://github.com/samiramghd/Credit_Risk_Analysis/blob/main/images/adaboost.PNG)
 
 - balanced accuracy: 0.925427358175101
 - precision: the precision is pretty low for high_risk loans and is high for low_risk loans.
